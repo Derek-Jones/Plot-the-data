@@ -1,0 +1,24 @@
+
+
+get name of file containing data
+   assume comma separated
+   read file into dataframe
+
+   error: file does not exist
+   error: cannot read file, e.g., not permissions
+   error: not comma separated
+   error: file too large
+
+
+get identity of information to plot
+   associate identity info with column names
+
+   error: too many associations
+   error: not enough associations, i.e., less than two
+
+plot data (default webplotlib)
+   scatter plot
+   use column names as to label axis 
+
+language model errors
+
